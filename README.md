@@ -1,6 +1,6 @@
 # Rawipat Pankosol
 
-Hello! I'm Rawipat Pankosol, a passionate Financial who interested in IT, Programming and AI from Thailand. Welcome to my GitHub profile!
+Hello! I'm Rawipat Pankosol, a passionate Financial Advisor who interested in IT, Programming and AI from Thailand. Welcome to my GitHub profile!
 
 ## About Me
 
