@@ -9,7 +9,7 @@ Hello! I'm Rawipat Pankosol, a passionate Financial Advisor who interested in IT
   
 ## Skills
 
--  Programming languages: Python
+-  Programming languages: Python, GO
 -  Technologies: AWS sevices
 
 ## GitHub Stats
