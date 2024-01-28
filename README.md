@@ -12,6 +12,10 @@ Hello! I'm Rawipat Pankosol, a passionate Financial Advisor who interested in IT
 -  Programming languages: Python, GO
 -  Technologies: AWS sevices
 
+## Project
+
+[First Hand on GCP DevOps](https://youtu.be/qxwrZuKuqVQ?si=mJUZlfEPDA9P_-8p)
+
 ## GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rawipat40&show_icons=true&theme=radical)](https://github.com/Rawipat40)
@@ -19,7 +23,6 @@ Hello! I'm Rawipat Pankosol, a passionate Financial Advisor who interested in IT
 ![](https://komarev.com/ghpvc/?username=Rawipat40&color=blueviolet)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rawipat40&layout=compact)
-
 
 ## Connect with Me
 
