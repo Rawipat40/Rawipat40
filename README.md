@@ -14,7 +14,7 @@ Hello! I'm Rawipat Pankosol, a passionate Financial Advisor who interested in IT
 
 ## Project
 
-[First Hand on GCP DevOps](https://youtu.be/qxwrZuKuqVQ?si=mJUZlfEPDA9P_-8p)
+-  [First Hand on GCP DevOps](https://youtu.be/qxwrZuKuqVQ?si=mJUZlfEPDA9P_-8p)
 
 ## GitHub Stats
 
