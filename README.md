@@ -14,7 +14,12 @@ Hello! I'm Rawipat Pankosol, a passionate Financial Advisor who interested in IT
 
 ## Project
 
--  [First Hand on GCP DevOps](https://youtu.be/qxwrZuKuqVQ?si=mJUZlfEPDA9P_-8p)
+### Project 1
+
+- **Description:** The project aims to implement DevOps practices and principles on the Google Cloud Platform for continuous integration, continuous delivery (CI/CD), and infrastructure automation.
+- **Link:** [First Hand on GCP DevOps](https://youtu.be/qxwrZuKuqVQ?si=mJUZlfEPDA9P_-8p)
+- **Tech Stack:** List of technologies used in the project.
+ Goolge Cloud Platform / VPC / Firewall / Control SSH / HAProxy / Squid /Gitlab / Jenkins / Kubernetes / Docker / Grafana / Prometheus / Alert / ELK / Filebeat
 
 ## GitHub Stats
 
