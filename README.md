@@ -21,6 +21,13 @@ Hello! I'm Rawipat Pankosol, a passionate Financial Advisor who interested in IT
 - **Tech Stack:** List of technologies used in the project.
  Goolge Cloud Platform / VPC / Firewall / Control SSH / HAProxy / Squid /Gitlab / Jenkins / Kubernetes / Docker / Grafana / Prometheus / Alert / ELK / Filebeat
 
+### Project 2
+
+- **Description:** This project is a learning exercise focused on building a RESTful API using the Go programming language. It implements various functionalities including user management (signup, login, credential validation), event registration, and CRUD operations for events.
+- **Link:** [RESTful-API-Project](https://github.com/Rawipat40/RESTful-API-Project)
+- **Tech Stack:** Go (Golang) / Go Gin Web Framework / go-sqlite / jwt-go
+
+
 ## GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rawipat40&show_icons=true&theme=radical)](https://github.com/Rawipat40)
