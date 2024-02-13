@@ -1,12 +1,11 @@
-# Rawipat Pankosol
+# Introduction
 
-Hello! I'm Rawipat Pankosol, a passionate Financial Advisor who interested in IT, Programming and AI from Thailand. Welcome to my GitHub profile!
+Hello! I'm Rawipat Pankosol, a person who is interested in cloud technology, Golang, DevOps, AI, and automation. I have a keen interest in exploring the latest advancements in these fields and applying them to create innovative solutions.
 
-## About Me
+My journey in technology began with a fascination for cloud computing and its potential to revolutionize industries. Over time, I've delved into Golang development, finding its simplicity and efficiency captivating. Additionally, my exploration of DevOps practices has allowed me to streamline development processes and enhance collaboration within teams.
 
--  Graduated in Bachelor of Economics from Chiang Mai University.
--  You can reach me at rawipat40@gmail.com
-  
+I'm particularly intrigued by the intersection of AI and automation, where I see immense potential for transforming industries and improving everyday experiences. Whether it's building scalable cloud infrastructure, crafting robust Golang applications, implementing AI algorithms, or automating repetitive tasks, I'm driven by a passion for leveraging technology to solve complex problems and drive positive change.
+
 ## Skills
 
 -  Programming languages: Python, GO
