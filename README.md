@@ -22,8 +22,8 @@ I'm particularly intrigued by the intersection of AI and automation, where I see
 
 ### Project 2
 
-- **Description:** This project is a learning exercise focused on building a RESTful API using the Go programming language. It implements various functionalities including user management (signup, login, credential validation), event registration, and CRUD operations for events.
-- **Link:** [RESTful-API-Project](https://github.com/Rawipat40/RESTful-API-Project)
+- **Description:** This project is a learning exercise focused on building a REST API using the Go programming language. It implements various functionalities including user management (signup, login, credential validation), event registration, and CRUD operations for events.
+- **Link:** [REST-API-Project](https://github.com/Rawipat40/REST-API-Project)
 - **Tech Stack:** Go (Golang) / Go Gin Web Framework / go-sqlite / jwt-go
 
 
